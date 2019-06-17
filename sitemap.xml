@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://forestsict.000webhostapp.com/index.html</loc>
+		<lastmod>2017-12-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.89</priority>
+	</url>
+	<url>
+		<loc>https://forestsict.000webhostapp.com/routes.html</loc>
+		<lastmod>2017-12-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.75</priority>
+	</url>
+	<url>
+		<loc>https://forestsict.000webhostapp.com/reservation.html</loc>
+		<lastmod>2017-12-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.68</priority>
+	</url>
+	<url>
+		<loc>https://forestsict.000webhostapp.com/preparation.html</loc>
+		<lastmod>2017-12-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.60</priority>
+	</url>
+	<url>
+		<loc>https://forestsict.000webhostapp.com/robotssitemap.html</loc>
+		<lastmod>2017-12-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.59</priority>
+	</url>
+	<url>
+		<loc>https://forestsict.000webhostapp.com/author.html</loc>
+		<lastmod>2017-12-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.61</priority>
+	</url>
+	
+</urlset>
